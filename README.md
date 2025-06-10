@@ -5,4 +5,4 @@ my response time to any direct messages can range between a minute to 9 vigintil
 
 yeah that's about it i guess.\
 \
-[Public PGP Key](PGP.md)
+[Public PGP Key](https://raw.githubusercontent.com/HydratedBean/HydratedBean/refs/heads/main/PGP.md)
